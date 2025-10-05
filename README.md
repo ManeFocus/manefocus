@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 - <b>Python</b>
 
-  - [Cribl System Administration] (https://github.com/ManeFocus/cribl-system-engineering)
+  - Cribl System Administration(https://github.com/ManeFocus/cribl-system-engineering)
 
 <h2>📺 Popular YouTube Videos</h2>
 
